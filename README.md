@@ -1,4 +1,4 @@
-### Hi, I'm Kartikey 👋
+## Hi, I'm Kartikey 👋
 
 Software developer, currently going deep into machine learning and deep learning from first principles, not just using models, but understanding what's actually happening inside them.
 
